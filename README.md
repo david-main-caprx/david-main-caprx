@@ -16,4 +16,4 @@ david-main-caprx/david-main-caprx is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-I commit primarily in https://github.com/capitalrx
+I commit primarily in [https://github.com/capitalrx](https://github.com/capitalrx/code.capitalrx.com)
